@@ -1,0 +1,14 @@
+C:\Users\TwelveK\Desktop\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\TwelveK\Desktop\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Users\TwelveK\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\TwelveK\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\TwelveK\Desktop\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\TwelveK\Desktop\GameServer\GameServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\bin\Debug\AuthServer.exe.config
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\bin\Debug\AuthServer.exe
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\bin\Debug\AuthServer.pdb
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\obj\Debug\AuthServer.exe
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\obj\Debug\AuthServer.pdb
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\obj\Debug\AuthServer.csprojResolveAssemblyReference.cache
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\bin\Debug\System.Data.SQLite.dll
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\bin\Debug\System.Data.SQLite.pdb

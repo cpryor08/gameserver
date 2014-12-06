@@ -1,0 +1,7 @@
+C:\Users\TwelveK\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\TwelveK\Desktop\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+C:\Users\TwelveK\Desktop\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\TwelveK\Desktop\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\TwelveK\Desktop\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\TwelveK\Desktop\GameServer\GameServer\obj\Debug\GameServer.pdb
+C:\Users\TwelveK\Desktop\GameServer\GameServer\bin\Debug\System.Data.SQLite.dll

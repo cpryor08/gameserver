@@ -1,0 +1,6 @@
+C:\Users\TwelveK\Desktop\NewServer\GameServer\bin\Release\GameServer.exe.config
+C:\Users\TwelveK\Desktop\NewServer\GameServer\bin\Release\GameServer.exe
+C:\Users\TwelveK\Desktop\NewServer\GameServer\bin\Release\GameServer.pdb
+C:\Users\TwelveK\Desktop\NewServer\GameServer\bin\Release\System.Data.SQLite.dll
+C:\Users\TwelveK\Desktop\NewServer\GameServer\obj\Release\GameServer.exe
+C:\Users\TwelveK\Desktop\NewServer\GameServer\obj\Release\GameServer.pdb

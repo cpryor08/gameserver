@@ -1,0 +1,6 @@
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\bin\Release\AuthServer.exe.config
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\bin\Release\AuthServer.exe
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\bin\Release\AuthServer.pdb
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\bin\Release\System.Data.SQLite.dll
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\obj\Release\AuthServer.exe
+C:\Users\TwelveK\Desktop\NewServer\AuthServer\AuthServer\obj\Release\AuthServer.pdb
