@@ -1,0 +1,1 @@
+This is a login and game server for an mmorpg called conquer online. I had used it as a project to learn about asyncronous sockets and handling packets.
